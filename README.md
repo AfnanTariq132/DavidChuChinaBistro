@@ -1,2 +1,0 @@
-# DavidChuChinaBistro
-Online Hotel Website
